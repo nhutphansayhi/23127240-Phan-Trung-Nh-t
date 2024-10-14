@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <vector>
-#include <algorithm>
+#include"main.h"
 
 int main() {
     std::ifstream file("data.txt");  

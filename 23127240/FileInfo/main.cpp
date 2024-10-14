@@ -1,5 +1,4 @@
-#include <iostream>
-#include <string>
+#include"main.h"
 
 void parsePath(const std::string& path) {
     

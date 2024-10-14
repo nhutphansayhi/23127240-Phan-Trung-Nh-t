@@ -1,0 +1,5 @@
+Exception tại hàm export. Lí do: Invalid input exception
+This is another log message.
+Exception tại hàm export. Lí do: Invalid input exception
+This is another log message.
+hello
